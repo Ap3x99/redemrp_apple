@@ -12,7 +12,7 @@ there
 ```
     ["apple"] =
     {
-        label = "Orange",
+        label = "Apple",
         description = "?????????",
         weight = 0.1,
         canBeDropped = true,
