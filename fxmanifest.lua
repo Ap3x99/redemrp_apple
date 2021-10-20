@@ -1,4 +1,4 @@
-description 'Script based off Amakuu and Ktoś Blueberry but instead of collecting berries, you collect oranges'
+description 'Script based off Amakuu and Ktoś Blueberry but instead of collecting berries, you collect apples'
 
 fx_version 'adamant'
 games {'rdr3'}
